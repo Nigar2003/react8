@@ -1,0 +1,21 @@
+/* CustomButton.css */
+.custom-button {
+    margin: 10px;
+  }
+  
+  .custom-button button {
+    padding: 10px;
+    cursor: pointer;
+  }
+  
+  .custom-button.warning button {
+    background-color: #ff0000; 
+    color: #fff;
+  }
+  
+  .warning-message {
+    color: #ff0000;
+    font-style: italic;
+    margin-top: 5px;
+  }
+  
